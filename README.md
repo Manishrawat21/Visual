@@ -1,4 +1,4 @@
-# Visual
+# Visual Portfolio
 
 **Manish Rawat**
 Security Analyst | Detection Engineer | SOC Lab Builder
